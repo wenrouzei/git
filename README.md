@@ -8,7 +8,7 @@ git clone git@github.com:wenrouzei/git.git
 ### 2.1 查看本地分支
 使用 git branch命令，如下：
 
-'$ git branch`
+>$ git branch
 
 `* master`
 
@@ -55,6 +55,7 @@ Your branch is up-to-date with 'origin/master'.
 `git checkout -b [branch name]` 的效果相当于以下两步操作：
 
 >git branch [branch name]
+
 >git checkout [branch name]
 
 
