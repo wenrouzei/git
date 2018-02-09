@@ -42,10 +42,9 @@ git clone git@github.com:wenrouzei/git.git
 
 例如：
 
-```$ git checkout master
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-```
+>$ git checkout master
+>Switched to branch 'master'
+>Your branch is up-to-date with 'origin/master'.
 
 ### 2.6 创建+切换分支
 创建分支的同时切换到该分支上，命令如下：
@@ -59,14 +58,14 @@ Your branch is up-to-date with 'origin/master'.
 >git checkout [branch name]
 
 
-### 2.7 将新分支推送到github
+### 2.7 将新分支推送到github、gitlab
 命令如下：
 
 >git push origin [branch name]
 
 例如：
 
->git push origin gh-dev
+>git push origin fix-bug
 
 ### 2.8 删除本地分支
 命令如下：
