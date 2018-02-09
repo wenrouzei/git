@@ -43,7 +43,9 @@ git clone git@github.com:wenrouzei/git.git
 例如：
 
 >$ git checkout master
+
 >Switched to branch 'master'
+
 >Your branch is up-to-date with 'origin/master'.
 
 ### 2.6 创建+切换分支
